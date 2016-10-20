@@ -1,2 +1,2 @@
 # JavaPrograms
-Java Practice Programs
+Practice Programs in Java
