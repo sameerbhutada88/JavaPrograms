@@ -7,8 +7,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.PriorityQueue;
 import java.util.Queue;
-
-
 /**
  * Find top n frequent elements from Array
  * 
@@ -17,7 +15,6 @@ import java.util.Queue;
  *  @author Sbhutada
  *  
  */
-
 public abstract class TopFrequentElements {
 
 	 public static List<Integer> topnFrequentElements(int[] nums, int n) 
@@ -59,7 +56,6 @@ public abstract class TopFrequentElements {
 		 
 		 return list;  
 	 }
-	 
 	 
 	 public static void main(String[] args) {
 			
